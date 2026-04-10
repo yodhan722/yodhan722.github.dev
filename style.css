@@ -1,0 +1,10 @@
+body {
+	background-color: #ffffff;
+	font-family: Text;
+	display: block;
+}
+
+@font-face {
+	font-family: Text;
+	src: url(assets/Helvetica.ttf);
+}
